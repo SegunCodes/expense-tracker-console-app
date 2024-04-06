@@ -1,7 +1,7 @@
 ﻿using ExpenseTracker;
 ExpenseTrackers expenseTrackers = new ExpenseTrackers();
 bool exit = false;
-string fileName = "C:\\Users\\Segun\\OneDrive\\Desktop\\class_with_tifey\\ExpenseTracker\\expenses.json";
+string fileName = "expenses.json";
 
 while (!exit)
 {
